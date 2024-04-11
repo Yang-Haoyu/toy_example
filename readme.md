@@ -1,0 +1,1 @@
+python syn_exp.py --did 3 --dat_seed {0-4} --cv_seed {0-9}
